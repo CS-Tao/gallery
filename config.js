@@ -1,25 +1,30 @@
 module.exports = {
 	cdnDomain: '/',
-	title: 'Zing Gallery',
+	title: 'CSTao\'s Gallery',
+	favicon: './img/favicon.png',
 	avatar: './img/avatar.png',
 	wording: {
-		noAccess: '抱歉，你没有权限访问'
+		noAccess: '抱歉，您没有权限访问'
 	},
 	albums: {
-		"青海湖": {
-			thumbnail: "打马而过.jpg",
-		  sort: 1
+		"故乡": {
+			description: "愿故乡四季常在",
+			thumbnail: "2017-11-23_家乡的夜景.jpg",
+			name: "故乡",
+			password: "0214",
+			noDate: false,
+			passwordTips: "请输入密码",
+			sort: 1
 		}, 
-		"江南小镇": {
-		  description : "没有什么能够阻挡",
-			thumbnail: "燕歌行.jpg",
-		  name: "南浔"
+		"爱在武大": {
+			thumbnail: "2017-12-03_武大秋景.jpg",
+			sort: 1
 		},
-		"私密": {
-			description: "这是一个需要密码的相册",
-		  name: "私密",
-		  password: "233",
-			passwordTips: "密码是233"
+		"远行": {
+			description : "既然选择了远方，便只顾风雨兼程",
+			thumbnail: "2016-08-19_游荡.jpg",
+			name: "一辆车一个人",
+			sort: 1
 		}
 	}
 }
