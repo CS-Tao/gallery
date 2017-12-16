@@ -1,5 +1,5 @@
 module.exports = {
-	cdnDomain: '/',
+	cdnDomain: '/gallery/',
 	title: 'CSTao\'s Gallery',
 	favicon: './img/favicon.png',
 	avatar: './img/avatar.png',
