@@ -9,7 +9,7 @@ module.exports = {
 	albums: {
 		"故乡": {
 			description: "愿故乡四季常在",
-			thumbnail: "2017-11-23_家乡的夜景.jpg",
+			thumbnail: "家乡的夜景.jpg",
 			name: "故乡",
 			password: "0214",
 			noDate: false,
@@ -17,12 +17,12 @@ module.exports = {
 			sort: 1
 		}, 
 		"爱在武大": {
-			thumbnail: "2017-12-03_武大秋景.jpg",
+			thumbnail: "武大秋景.jpg",
 			sort: 1
 		},
 		"远行": {
 			description : "既然选择了远方，便只顾风雨兼程",
-			thumbnail: "2016-08-19_游荡.jpg",
+			thumbnail: "游荡.jpg",
 			name: "一辆车一个人",
 			sort: 1
 		}
