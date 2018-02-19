@@ -16,6 +16,15 @@ module.exports = {
 			passwordTips: "请输入密码",
 			sort: 1
 		}, 
+		"实验室": {
+			description: "山水一程，三生有幸。",
+			thumbnail: "年终聚餐.jpg",
+			name: "实验室",
+			password: "0214",
+			noDate: false,
+			passwordTips: "请输入密码",
+			sort: 1
+		}, 
 		"爱在武大": {
 			thumbnail: "武大秋景.jpg",
 			sort: 1
