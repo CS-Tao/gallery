@@ -8,7 +8,7 @@ module.exports = {
 	},
 	albums: {
 		"爱在武大": {
-			description : "你说大江南北的风景，不及你三月盛开的珞樱",
+			description : "你说任何大江南北的风景，不及你三月盛开的珞樱",
 			thumbnail: "22.jpg",
 			sort: 1
 		},
@@ -19,7 +19,7 @@ module.exports = {
 			sort: 1
 		},
 		"生活": {
-			description : "生活纵容充满着各种各样的不确定，但我们从来没有忘记去发现它的美",
+			description : "生活纵容充满着各种各样的不确定，但我们从来没有忘记去发现它的美！",
 			thumbnail: "01.jpg",
 			name: "给生活一点仪式感",
 			sort: 1
