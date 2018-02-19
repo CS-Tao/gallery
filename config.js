@@ -20,7 +20,7 @@ module.exports = {
 			description: "山水一程，三生有幸。",
 			thumbnail: "年终聚餐.jpg",
 			name: "实验室",
-			password: "0214",
+			password: "2017",
 			noDate: false,
 			passwordTips: "请输入密码",
 			sort: 1
