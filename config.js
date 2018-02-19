@@ -18,7 +18,7 @@ module.exports = {
 		}, 
 		"实验室": {
 			description: "山水一程，三生有幸。",
-			thumbnail: "年终聚餐.jpg",
+			thumbnail: "01.jpg",
 			name: "实验室",
 			password: "2017",
 			noDate: false,
