@@ -1,6 +1,6 @@
 module.exports = {
 	cdnDomain: '/',
-	title: 'CSTao\'s Gallery',
+	title: 'CS-Tao\'s Gallery',
 	favicon: './img/favicon.png',
 	avatar: './img/avatar.png',
 	wording: {
