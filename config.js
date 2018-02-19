@@ -8,26 +8,33 @@ module.exports = {
 	},
 	albums: {
 		"爱在武大": {
-			thumbnail: "武大秋景.jpg",
+			description : "你说大江南北的风景，不及你三月盛开的珞樱",
+			thumbnail: "22.jpg",
 			sort: 1
 		},
 		"远行": {
 			description : "既然选择了远方，便只顾风雨兼程",
-			thumbnail: "游荡.jpg",
+			thumbnail: "01.jpg",
 			name: "一辆车一个人",
 			sort: 1
 		},
+		"生活": {
+			description : "生活纵容充满着各种各样的不确定，但我们从来没有忘记去发现它的美",
+			thumbnail: "01.jpg",
+			name: "给生活一点仪式感",
+			sort: 1
+		},
 		"故乡": {
-			description: "愿故乡四季常在",
-			thumbnail: "家乡的夜景.jpg",
-			name: "故乡",
+			description: "渝东南地区一个偏僻的小县城 - 彭水",
+			thumbnail: "01.jpg",
+			name: "故乡的春秋冬夏",
 			password: "0214",
 			noDate: false,
 			passwordTips: "请输入密码",
 			sort: 1
 		}, 
 		"实验室": {
-			description: "山水一程，三生有幸。",
+			description: "山水一程，三生有幸",
 			thumbnail: "01.jpg",
 			name: "实验室",
 			password: "2017",
