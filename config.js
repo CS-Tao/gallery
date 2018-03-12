@@ -3,6 +3,8 @@ module.exports = {
 	title: 'CS-Tao\'s Gallery',
 	favicon: './img/favicon.png',
 	avatar: './img/avatar.png',
+	google_analytics: 'UA-104910484-1',
+	baidu_tongji: '60c849aef33194f2884736dfb3f0b518',
 	wording: {
 		noAccess: '抱歉，您没有权限访问'
 	},
