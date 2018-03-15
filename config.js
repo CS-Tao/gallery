@@ -47,9 +47,7 @@ module.exports = {
 		"偷得半日闲": {
 			thumbnail: "01.jpg",
 			name: "偷得半日闲",
-			password: "2017",
 			noDate: false,
-			passwordTips: "请输入密码",
 			sort: 1
 		}
 	}
