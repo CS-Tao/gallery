@@ -33,7 +33,7 @@ module.exports = {
 			sort: 1
 		},
 		"生活": {
-			description : "生活纵容充满着各种各样的不确定，但我们从来没有忘记去发现它的美！",
+			description : "生活纵容充满着各种各样的不确定，但我们从来没有忘记去发现它的美",
 			thumbnail: "01.jpg",
 			name: "给生活一点仪式感",
 			sort: 1
@@ -42,23 +42,14 @@ module.exports = {
 			description: "渝东南地区一个偏僻的小县城 - 彭水",
 			thumbnail: "01.jpg",
 			name: "故乡的春秋冬夏",
-			password: "0214",
+			// password: "0214",
 			noDate: false,
-			passwordTips: "请输入密码",
+			// passwordTips: "请输入密码",
 			sort: 1
-		}, 
-		"实验室": {
-			description: "山水一程，三生有幸",
-			thumbnail: "01.jpg",
-			name: "实验室",
-			password: "2017",
-			noDate: false,
-			passwordTips: "请输入密码",
-			sort: 1
-		}, 
+		},
 		"偷得半日闲": {
 			thumbnail: "01.jpg",
-			description : "最近事情好多啊，抽出一些时间逛了逛东湖，发现还是和以前一样好看啊",
+			description : "最近事情好多，抽出一些时间逛了逛东湖，发现还是和以前一样好看啊",
 			name: "偷得半日闲",
 			noDate: false,
 			sort: 1
