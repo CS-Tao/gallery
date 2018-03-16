@@ -9,9 +9,21 @@ module.exports = {
 		noAccess: '抱歉，您没有权限访问'
 	},
 	albums: {
-		"爱在武大": {
+		"2018-樱花节": {
 			description : "你说任何大江南北的风景，不及你三月盛开的珞樱",
-			thumbnail: "22.jpg",
+			thumbnail: "01.jpg",
+			name: "樱花节",
+			sort: 1
+		},
+		"2017-雪中的武测": {
+			description : "山中无历日，寒尽不知年",
+			thumbnail: "01.jpg",
+			name: "雪中的武测",
+			sort: 1
+		},
+		"武大旧事": {
+			description : "存放一些建这个相册之前在武大拍的照片",
+			thumbnail: "01.jpg",
 			sort: 1
 		},
 		"远行": {
@@ -46,6 +58,7 @@ module.exports = {
 		}, 
 		"偷得半日闲": {
 			thumbnail: "01.jpg",
+			description : "最近事情好多啊，抽出一些时间逛了逛东湖，发现还是和以前一样好看啊",
 			name: "偷得半日闲",
 			noDate: false,
 			sort: 1
