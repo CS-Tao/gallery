@@ -11,7 +11,7 @@ module.exports = {
 	albums: {
 		"2018-樱花节": {
 			description : "你说任何大江南北的风景，不及你三月盛开的珞樱",
-			thumbnail: "01.jpg",
+			thumbnail: "001.jpg",
 			name: "樱花节",
 			sort: 1
 		},
